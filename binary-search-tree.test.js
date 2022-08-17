@@ -214,3 +214,9 @@ test("postorder function with difference of one", () => {
   const tree = new Tree([1, 2, 3, 4, 5, 6]);
   expect(tree.getHeight()).toEqual(3);
 });
+
+
+test("postorder function with difference of one", () => {
+  const tree = new Tree([1, 2, 3, 4, 5, 6]);
+  expect(tree.getHeight()).toEqual(3);
+});
